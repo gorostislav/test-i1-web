@@ -3,6 +3,5 @@
 </p>
 
 - `composer install`
-- `php init`
 - `yii migrate`
 - `yii migrate-demo` - заполнение базы демо данными
